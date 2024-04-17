@@ -1,0 +1,3 @@
+http://localhost/Online_Voting_System/voting/admin/index.php
+
+Username: ssvps@gmail.com Password: pass@123
